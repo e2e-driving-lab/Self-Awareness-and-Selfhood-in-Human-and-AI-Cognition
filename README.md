@@ -1,4 +1,4 @@
-Paper:
+# Paper: High-Context Intelligence
 
 Main paper: Self-Awareness and Selfhood in Human and AI Cognition: Toward a Future 
 Architecture for the Formation of High-Context Intelligence　　Latest 　Ver.4-3. Revised July 17 2026　
