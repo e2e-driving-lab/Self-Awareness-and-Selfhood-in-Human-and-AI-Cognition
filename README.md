@@ -1,4 +1,4 @@
-# Paper: High-Context Intelligence
+# High-Context Intelligence
 
 ## Main paper: 
 Self-Awareness and Selfhood in Human and AI Cognition: Toward a Future 
