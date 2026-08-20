@@ -15,9 +15,9 @@ The paper distinguishes functional approximation from ontological participation,
 
 An appendix subtitle, “Systematic Correspondence with Bayesian Inference,” was developed in parallel with the main document.
 In Japan, the application of Bayesian imitation learning and Bayesian neuro‑symbolic learning to autonomous driving and robotics has attracted considerable attention in recent years.
-*************
+*****************************************************************************************************************************************
 The following passage is taken from the document released in September 2025, Strategic Considerations of the Gate-All-Around (GAA) Transistor for AI Semiconductors in Software-Defined Vehicles (SDVs) and Robotic Manipulation Systems: latest revised on Dec. 04, 2025.
-
+*****************************************************************************************************************************************
 Embodied intelligence leverages predictive control based on a wide range of unconscious sensory inputs, and is equipped with heuristics that maintain biological coherence under physical and spatial constraints. 
 In the case of humanoid deployment, collaboration and shared judgment with humans are essential. Moreover, for autonomous driving, the ability to respond to exceptional situations and interpret tacit social understandings becomes critical. 
 These forms of judgment and control rely on empirical information (intuition-based information without calculation or analysis) that cannot be obtained in virtual environments. 
