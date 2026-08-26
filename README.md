@@ -2,7 +2,7 @@
 
 ## Main paper: 
 Self-Awareness and Selfhood in Human and AI Cognition: Toward a Future 
-Architecture for the Formation of High-Context Intelligence　　Latest 　Ver.4-4. Revised Aug 14 2026　
+Architecture for the Formation of High-Context Intelligence　　Latest 　Ver.4-7. Revised Aug 17 2026　
 
 ## Appendix: 
 Bayesian Inference and the Emergence of Internal Evaluation 
