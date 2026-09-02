@@ -6,7 +6,8 @@ Architecture for the Formation of High-Context Intelligence　　Latest 　Ver.4
 
 ## Appendix: 
 Bayesian Inference and the Emergence of Internal Evaluation 
-Structures : From Experience to Evaluation in Multi-Agent AI 　Latest　Ver.3-4. Revised July 24, 2026
+Structures : From Experience to Evaluation in Multi-Agent AI 　
+Latest　Ver.3.4-3 Revised July 31, 2026 
  
 ## Main claim:
 This paper develops a theoretical framework for re examining human intelligence and selfhood in order to clarify the structural limits of contemporary artificial intelligence. It argues that human selfhood emerges not from a conscious internal observer but from a biologically grounded, hierarchically organized predictive architecture integrating unconscious processes, narrative construction, and organismic self maintenance. In contrast, current AI foundation models exhibit advanced predictive and representational abilities yet lack embodiment, biological autonomy, and the integrated self maintaining control structures required for genuine self model formation.
